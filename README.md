@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rico-77
-- 👀 I’m a Safety Engineer interested in CyberSecurity
-- 🌱 I’m currently learning how to use CyberSecurity tools like KaliLinux, AI, Bash, PowerShell, Python, Cloud...
+- 👀 I’m a Safety Engineer interested working on CyberSecurity
+- 🌱 I’m currently developing a more humane way to use CyberSecurity tools like KaliLinux, AI, Bash, PowerShell, Python, Cloud...
 - 📫 How to reach me on https://www.linkedin.com/in/rijad-hasanhodzic-15a115117/
 
 
