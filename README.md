@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rico-77
 - 👀 I’m a Safety Engineer | Security Analyst | Identity Management | CompTIA Security+
-- 🌱 I’m currently developing a more humane way to use CyberSecurity tools like KaliLinux, AI, Bash, PowerShell, Python, Cloud...
+- 🌱 Currently working in dedicated cybersecurity and risk analysis roles, leveraging hands-on operational experience to strengthen and inform security decision-making.
 - 📫 How to reach me on ( https://www.linkedin.com/in/rijad-hh-/)
 
 
