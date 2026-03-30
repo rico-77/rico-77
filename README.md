@@ -14,9 +14,9 @@ Focused on identity security, fraud prevention, and risk mitigation.
 
 
 📕 My Certifications :
-
-![Security+-jpg]((https://github.com/user-attachments/assets/c7db7b0a-c1f5-4edd-9ec6-69d1960fd2ab)
-https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba24fe48a73b4f188182ab3e1c4517c4)
+<a href="(https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba24fe48a73b4f188182ab3e1c4517c4)">
+![Security+-jpg](https://github.com/user-attachments/assets/c7db7b0a-c1f5-4edd-9ec6-69d1960fd2ab)
+ 
 
 
 
