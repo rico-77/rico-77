@@ -16,7 +16,6 @@ Focused on identity security, fraud prevention, and risk mitigation.
 📕 My Certifications :
 
 ![Security+-jpg](https://github.com/user-attachments/assets/c7db7b0a-c1f5-4edd-9ec6-69d1960fd2ab)
-![cccc](https://github.com/user-attachments/assets/e52f161e-9638-40c5-bffc-d5c287fa52e3)
 
 
 
