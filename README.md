@@ -10,6 +10,7 @@ Focused on identity security, fraud prevention, and risk mitigation.
 - 🛡️ Building security controls aligned with ISO 27001 / GDPR / NIST / 
 - 📊 Turning data into risk insights
 - ⚡ Background in platform security & operations
+- 📫 https://www.linkedin.com/in/rijad-hh-/
 
 
 
