@@ -5,7 +5,7 @@ Focused on identity security, fraud prevention, and risk mitigation.
 
 ---
 
-## 🧠 About Me
+## About Me
 - 🔍 Investigating fraud patterns & risk signals
 - 🛡️ Building security controls aligned with ISO 27001 / GDPR / NIST / 
 - 📊 Turning data into risk insights
@@ -15,7 +15,10 @@ Focused on identity security, fraud prevention, and risk mitigation.
 
 📕 My Certifications :
 
-
+<a href="(https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba24fe48a73b4f188182ab3e1c4517c4)">
+  <img src=" ! (https://github.com/user-attachments/assets/11621ea4-d913-42eb-b909-10f9c0eb52cc)
+" width="120"/>
+</a>
  
 
 
