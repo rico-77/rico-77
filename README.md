@@ -15,6 +15,9 @@ Focused on identity security, fraud prevention, and risk mitigation.
 
 📕 My Certifications :
 
+[Uploading Security+-pdf.pdf…]()
+
+
 
 🛠️ Languages and Tools :
 
