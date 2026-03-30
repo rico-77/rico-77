@@ -25,7 +25,7 @@ Focused on identity security, fraud prevention, and risk mitigation.
 
 🛠️ Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,docker,notion,powershell,py,windows,grc)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,docker,notion,powershell,py,)](https://skillicons.dev)
 
 <!---
 rico-77/rico-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
