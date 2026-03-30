@@ -14,11 +14,11 @@ Focused on identity security, fraud prevention, and risk mitigation.
 
 
 📕 My Certifications :
-![ISO](https://img.shields.io/badge/ISO-27001-blue)
+
 
 🛠️ Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,docker,notion,powershell,py,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,docker,notion,powershell,py,windows,grc)](https://skillicons.dev)
 
 <!---
 rico-77/rico-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
