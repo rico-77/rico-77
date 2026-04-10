@@ -16,10 +16,9 @@ Focused on identity security, fraud prevention, and risk mitigation.
 
 
 📕 My Certifications :
+ 
+![Bez naslovaCO](https://github.com/user-attachments/assets/d93ded25-9d0f-4cad-b18f-7582be1590cb) CompTIA / [CompTIA Security+]([url](https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba24fe48a73b4f188182ab3e1c4517c4))
 
-<a href="(https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba24fe48a73b4f188182ab3e1c4517c4)">
-<img src=https://github.com/user-attachments/assets/c7db7b0a-c1f5-4edd-9ec6-69d1960fd2ab  width="120"/>
-</a>
 
 ![CCCC](https://github.com/user-attachments/assets/e4855756-4b51-4d5a-b05e-8171665f23f8) 
 Codecademy / Ethical Hacking
