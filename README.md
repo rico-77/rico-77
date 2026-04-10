@@ -17,7 +17,7 @@ Focused on identity security, fraud prevention, and risk mitigation.
 
 📕 My Certifications :
  
-![Bez naslovaCO](https://github.com/user-attachments/assets/d93ded25-9d0f-4cad-b18f-7582be1590cb) CompTIA / [CompTIA Security+]([url](https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba24fe48a73b4f188182ab3e1c4517c4))
+![Bez naslovaCO](https://github.com/user-attachments/assets/d93ded25-9d0f-4cad-b18f-7582be1590cb) CompTIA / [CompTIA Security+]([[url](https://www.credly.com/badges/05076f19-147f-4cb9-8442-75a26c8e80d9/public_url)]
 
 
 ![CCCC](https://github.com/user-attachments/assets/e4855756-4b51-4d5a-b05e-8171665f23f8) 
