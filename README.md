@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Rijad
 
-🔐 GRC Analyst | Fraud Detection | Risk & Compliance  
+🔐 Security Analyst GRC | CompTIA Security+ | Safety Engineer  
 Focused on identity security, fraud prevention, and risk mitigation.
 
 ---
