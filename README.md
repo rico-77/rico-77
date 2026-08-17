@@ -29,7 +29,7 @@ QA North America / Certificate in Information Security Management Principles ( C
 ![UUUU](https://github.com/user-attachments/assets/9c38a35e-ccd3-4e71-86a9-aa712c3795ee) 
 Udemy / CompTIA A+ Core 1 / CompTIA A+ Core 2
 
-<img width="70" height="70" alt="mastermindassurance_logo" src="https://github.com/user-attachments/assets/bcaba09e-add3-4567-a902-2c22c2b9d621" /> ISO/IEC 27001:2022 Lead Auditor / ISO/IEC 27701:2025 Lead Auditor
+<img width="60" height="60" alt="mastermindassurance_logo" src="https://github.com/user-attachments/assets/bcaba09e-add3-4567-a902-2c22c2b9d621" /> ISO/IEC 27001:2022 Lead Auditor / ISO/IEC 27701:2025 Lead Auditor
 
 
 
