@@ -38,6 +38,16 @@ Udemy / CompTIA A+ Core 1 / CompTIA A+ Core 2
 
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,docker,notion,powershell,py,)](https://skillicons.dev)
 
+
+## Projects
+
+1. Enterprise-Home-Lab
+2. SIEM-Beginner-s-Guide-Hands-on-Step-by-Step
+3. Recruitment-Platform-Fraud-Detection
+4. Personal-Cybersecurity-Guide-2025Personal-Cybersecurity-Guide-2025
+
+
+
 <!---
 rico-77/rico-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
