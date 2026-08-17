@@ -41,10 +41,10 @@ Udemy / CompTIA A+ Core 1 / CompTIA A+ Core 2
 
 ## Projects
 
-1. [Enterprise-Home-Lab](https://github.com/rico-77/Enterprise-Home-Lab))
+1. [Enterprise-Home-Lab](https://github.com/rico-77/Enterprise-Home-Lab)
 2. [SIEM-Beginner-s-Guide-Hands-on-Step-by-Step](https://github.com/rico-77/SIEM-Beginner-s-Guide-Hands-on-Step-by-Step)
-3. Recruitment-Platform-Fraud-Detection
-4. Personal-Cybersecurity-Guide-2025Personal-Cybersecurity-Guide-2025
+3. [Recruitment-Platform-Fraud-Detection](https://github.com/rico-77/Recruitment-Platform-Fraud-Detection)
+4. [Personal-Cybersecurity-Guide-2025Personal-Cybersecurity-Guide-2025](https://github.com/rico-77/Personal-Cybersecurity-Guide-2025)
 
 
 
