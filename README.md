@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Riyad
 
-🔐 Security Analyst GRC | CompTIA Security+ | Safety Engineer  
+🔐 Security Analyst GRC | CompTIA Security+  
 Focused on identity security, fraud prevention, and risk mitigation.
 
 ---
